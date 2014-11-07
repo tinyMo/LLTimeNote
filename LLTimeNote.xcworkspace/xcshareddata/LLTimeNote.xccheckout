@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E15F010-69D5-42C3-8A97-96ED4E0C53B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LLTimeNote</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>635B7E781BEBC53B6C9F35928D56C3EBD985E942</key>
+		<string>github.com:tinyMo/LLTimeNote.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LLTimeNote.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>635B7E781BEBC53B6C9F35928D56C3EBD985E942</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:tinyMo/LLTimeNote.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>635B7E781BEBC53B6C9F35928D56C3EBD985E942</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>635B7E781BEBC53B6C9F35928D56C3EBD985E942</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LLTimeNote</string>
+		</dict>
+	</array>
+</dict>
+</plist>
