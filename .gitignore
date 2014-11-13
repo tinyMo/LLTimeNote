@@ -1,4 +1,4 @@
-.DS_Store
-LLTimeNote.xcworkspace/xcuserdata/L.xcuserdatad/UserInterfaceState.xcuserstate
-LLTimeNote.xcworkspace/xcshareddata/LLTimeNote.xccheckout
+*.DS_Store
+*.xcuserstate
+*.xccheckout
 .gitignore
